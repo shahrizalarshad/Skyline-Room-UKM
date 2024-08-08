@@ -1,7 +1,17 @@
 # Skyline-Room-UKM
-Skyline Room UKM is a social game designed for students to connect and engage in a virtual environment. Players can communicate with one another and participate in various multiplayer activities, including playing pool, controlling lights, using audio links, and interacting at a drinking table.
+Skyline Room UKM is an immersive virtual social platform designed to enhance student interaction and engagement. Developed for a unique social experience, this game allows players to meet, interact, and enjoy various activities in a virtual environment.
 
-The game was developed using Unity for the game engine, Visual Studio for coding and debugging, and VRChat for creating immersive multiplayer experiences.
+## Features:
+
+#### Social Interaction: Players can communicate with others in real-time through text and voice chat, fostering a sense of community and connection among students.
+#### Multiplayer Activities: Engage in interactive activities such as playing pool, managing light controls, and participating in a virtual drinking table for casual conversations.
+#### Customizable Environment: The virtual room is designed to offer a dynamic and customizable space where players can personalize their experience and environment.
+
+## Technologies Used:
+
+#### Unity: Utilized as the primary game engine for developing the 3D environment and interactive elements.
+#### Visual Studio: Employed for coding and debugging to ensure smooth gameplay and functionality.
+#### VRChat: Integrated to leverage its social features and multiplayer capabilities, providing a rich, immersive experience.
 
 Link for the video demo: https://youtu.be/TQ5X3lFfbvs
 
